@@ -1,31 +1,29 @@
-.pai{
+.pai {
     min-height: 100vh;
     display: flex;
     flex-flow: column nowrap;
     justify-content: center;
     align-items: center;
-    
 }
 
-form{
+form {
     width: 780px;
     height: 400px;
-    
 }
 
-label{
-    
+label {
+
     display: block;
 }
 
-input{
+input {
     display: block;
 }
 
-button{
+button {
     display: block;
 }
 
-h2{
-    display:block;
+h2 {
+    display: block;
 }

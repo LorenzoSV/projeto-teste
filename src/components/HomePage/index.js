@@ -19,7 +19,8 @@ const HomePage = ({ eName }) => {
   };
 
   if (isName === true) {
-    return <Navigate to="SecondPage" />;
+    return <Navigate 
+    to="SecondPage" />;
   } else {
     return (
       <div>
